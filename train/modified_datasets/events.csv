@@ -1,0 +1,9 @@
+,title,type,price,city,day_of_week,type_encoded,KMeans_Cluster,DBSCAN_Cluster,GMM_Cluster
+0,Cricket League Finals,Sports,1.4671544681371391,Chennai,-0.30151134457776363,1,1,-1,1
+1,Robotics Workshop,Workshop,-1.256588207447696,Chennai,-0.30151134457776363,2,0,-1,0
+2,Food and Wine Festival,Culturals,0.21004246402106133,Chennai,-0.30151134457776363,0,0,0,2
+3,Chess Championship	,Sports,-0.20899487068429792,Chennai,-1.507556722888818,1,0,-1,2
+4,Startup Pitch Day,Workshop,1.4671544681371391,Chennai,0.9045340337332909,2,1,-1,1
+5,ComicCon Banglore,Culturals,0.21004246402106133,Bangalore,-0.30151134457776363,0,0,0,2
+6,hip hop concert,Culturals,-1.2607785807947496,Delhi,-0.30151134457776363,0,0,0,0
+7,Hip hop tamizha pro show,Culturals,-0.6280322053896572,Mumbai,2.1105794120443453,0,2,-1,0
